@@ -1,0 +1,21 @@
+Sintaxe: 
+Default exports - o nome da importação pode ser declarado no imput do app (passível de confusão e erro)
+
+named exports - exporta direto na criação da função (>>)
+
+toda importação feita em react deve ser no arquivo JavaScript pelos imports
+
+A chamada de classe css recebe className=""
+
+Extensões:
+Jsx = arquivo javascript + XLM. União dos arquivos em um. (antigamente alguns browsers não conseguiam fazer a importação de vários arquivos
+
+Todo componente tem extensão JSX e basicamente é uma estrutura que pode ser repetida e reutilizada 
+
+A extensão module.css permite a criação de um arquivo css que será atrelado a somente um componente (não afeta por “herança” >>)
+
+
+SSR -> Browser se comunica com Back-end, o qual retorna o conteúdo da página (HTML e CSS, por exemplo) 
+
+SPA→ Conteúdo da página é todo contido no arquivo JavaScript, o qual retorna o conteúdo., geralmente no formato JSON. Pode ser utilizado para diversas telas.
+
