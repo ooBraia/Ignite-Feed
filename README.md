@@ -1,1 +1,1 @@
-Este é o meu primeiro projeto utilizando a Linguagem JavaScript em conjunto com a biblioteca react. O objetivo é criar uma interface de mídia genérica do Ignite, de conseguir experiência e aprendizado.
+Este é o meu primeiro projeto utilizando a Linguagem JavaScript em conjunto com a biblioteca react. O objetivo é criar uma interface de mídia genérica do Ignite, e conseguir, desta forma, experiência e aprendizado.
